@@ -1,0 +1,22 @@
+[
+  {
+    "previous_hash": "GENESIS",
+    "current_hash": "158636fc6b4cdb5a219d54e9474889a202937d7038fc7fe2a82883d89abbd646",
+    "record": {
+      "input_name": "manual_text_input",
+      "source_type": "text",
+      "summary": "Manual text analysis completed. 1 findings detected across 4 text lines. Overall risk assessed as Low.",
+      "risk_score": 8,
+      "risk_level": "Low",
+      "packets_analyzed": 4,
+      "findings": [
+        {
+          "type": "Keyword Match",
+          "severity": "Medium",
+          "details": "Suspicious term detected: 'suspicious'"
+        }
+      ],
+      "timestamp": "2026-04-11T09:09:22.686980"
+    }
+  }
+]
